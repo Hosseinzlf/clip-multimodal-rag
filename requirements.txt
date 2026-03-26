@@ -1,6 +1,6 @@
 # CLIP Multimodal RAG — production dependencies
 # Python 3.10+
-
+ 
 # PDF
 PyMuPDF>=1.23.0
 
