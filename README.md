@@ -2,7 +2,6 @@
 
 A **Retrieval-Augmented Generation (RAG)** system for PDFs that combines **text and images** in a single pipeline. It uses **CLIP** for unified embeddings, **FAISS** for similarity search, and **Google Gemini** for answer generation.
 
-
 ------
 ## Features
 
