@@ -14,7 +14,7 @@ A **Retrieval-Augmented Generation (RAG)** system for PDFs that combines **text 
 ```
 PDF → [PyMuPDF] → Text chunks + Images
                         ↓
-              [CLIP] → Text & image embeddings
+              [CLIP] → Text & image embeddings 
                         ↓
               [FAISS] → Vector index
                         ↓
