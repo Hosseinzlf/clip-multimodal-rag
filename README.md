@@ -10,7 +10,7 @@ A **Retrieval-Augmented Generation (RAG)** system for PDFs that combines **text 
 - **Production-oriented layout**: Installable package, config via environment variables, and a clean notebook for experimentation.
 
 ## Architecture
-
+ 
 ```
 PDF → [PyMuPDF] → Text chunks + Images
                         ↓
